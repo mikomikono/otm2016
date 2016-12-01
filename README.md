@@ -1,2 +1,2 @@
 #HEADER
-Tämä on tekstiä. _Nyt se on italicilla **ja boldilla**._
+Tämä on tekstiä. Nyt se on _italicilla_ ja **boldilla**.
