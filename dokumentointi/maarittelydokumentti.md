@@ -1,1 +1,1 @@
-http://yuml.me/diagram/scruffy/class/[GITHUB]
+![kuva](http://yuml.me/diagram/scruffy/class/[GITHUB])
